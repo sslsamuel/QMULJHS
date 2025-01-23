@@ -1,4 +1,4 @@
-# The ultimate repository
+# The Ultimate Repository
 
 ## Contributers include:
 
